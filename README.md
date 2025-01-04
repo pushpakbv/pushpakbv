@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Pushpak B V!
 
-<!--
-**pushpakbv/pushpakbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Aspiring Software Developer** | 💻 **Engineering Student @ NIE Mysore** | 🌐 **Passionate about building impactful tech solutions**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a pre-final year Information Science and Engineering student at **The National Institute of Engineering, Mysore**, with a strong passion for backend development and crafting innovative projects. I thrive on challenges that allow me to solve real-world problems through technology.
+
+
+---
+
+## 🔧 Skills & Technologies
+
+**Programming Languages**:  
+- C++ | Java | Python | TypeScript  
+
+**Web Development**:  
+- HTML | CSS | JavaScript | React.js | Next.js | Node.js | Express.js | Tailwind CSS  
+
+**Databases**:  
+- MySQL | MongoDB  
+
+
+---
+
+
+## 📫 Let's Connect!
+
+- 💌 [Email Me](mailto:pushpakbv@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pushpakbv/)  
+- 💻 [GitHub](https://github.com/pushpakbv/)  
