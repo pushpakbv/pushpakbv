@@ -14,10 +14,12 @@ I'm a pre-final year Information Science and Engineering student at **The Nation
 ## 🔧 Skills & Technologies
 
 **Programming Languages**:  
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,python,ts)](https://skillicons.dev)
 
 **Web Development**:  
-- HTML | CSS | JavaScript | React.js | Next.js | Node.js | Express.js | Tailwind CSS  
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,node,next,express,tailwind)](https://skillicons.dev) 
 
 **Databases**:  
 - MySQL | MongoDB  
