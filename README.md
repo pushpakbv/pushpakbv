@@ -15,7 +15,7 @@ I'm a pre-final year Information Science and Engineering student at **The Nation
 
 **Programming Languages**:  
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js)](https://skillicons.dev)
 
 
 **Web Development**:  
