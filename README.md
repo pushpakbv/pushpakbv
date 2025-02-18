@@ -14,7 +14,7 @@ I'm a pre-final year Information Science and Engineering student at **The Nation
 ## 🔧 Skills & Technologies
 
 **Programming Languages**:  
-- C++ | Java | Python | TypeScript  
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,ts)](https://skillicons.dev)
 
 **Web Development**:  
 - HTML | CSS | JavaScript | React.js | Next.js | Node.js | Express.js | Tailwind CSS  
