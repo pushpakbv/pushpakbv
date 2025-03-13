@@ -28,6 +28,11 @@ I'm a pre-final year Information Science and Engineering student at **The Nation
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev) 
 
 
+**Devops**:  
+
+[![My Skills](https://skillicons.dev/icons?i=docker,redis)](https://skillicons.dev) 
+
+
 
 ---
 
